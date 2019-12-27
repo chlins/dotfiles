@@ -12,6 +12,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'jiangmiao/auto-pairs'
 Plug 'Yggdroot/indentLine'
+Plug 'ntpeters/vim-better-whitespace'
 
 Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'

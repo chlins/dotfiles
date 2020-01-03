@@ -4,7 +4,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'Chiel92/vim-autoformat'
 Plug 'jszakmeister/vim-togglecursor'
 Plug 'ybian/smartim'
-Plug 'Yggdroot/indentLine'
 "Plug 'Valloric/YouCompleteMe'
 Plug 'scrooloose/nerdtree'
 Plug 'kristijanhusak/vim-hybrid-material'
@@ -32,7 +31,7 @@ let g:smartim_default='com.apple.keylayout.ABC'
 set encoding=UTF-8
 syntax on
 set nu
-set nocompatible 
+set nocompatible
 set backspace=indent,eol,start
 set shiftwidth=4
 set autoindent
